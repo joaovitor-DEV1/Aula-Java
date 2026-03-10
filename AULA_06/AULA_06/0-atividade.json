@@ -1,0 +1,28 @@
+[
+{
+    "filme favorito": {
+        "título": "Todo Mundo em Pânico",
+        "ano": "2000",
+        "diretor": "Keenen Ivory Wayans",
+        "gêneros": "Comédia"
+    }
+},
+
+{
+    "aluno": {
+        "nome": "Arthur",
+        "idade": "17",
+        "notas": "8, 9 e 7 ",
+        "aprovado": true
+    }
+},
+
+{
+    "produto": {
+        "nome": "PS5",
+        "preço": "R$ 3.393,57",
+        "quantidade": "1",
+        "disponível": true
+    }
+}
+]
